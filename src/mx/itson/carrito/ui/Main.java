@@ -32,6 +32,7 @@ public class Main {
        bmw.setTipoMotor(TipoMotor.HIBRIDO);
        bmw.setTipoCarros(TipoCarros.SUV);
 
+       
         // invicamos al metodo contenido en la clase carro
         double tiempo = bmw.calcularTiempo(distancia, velocidad);
         System.out.println("El tiempo que tardara en recorrer el carro "+ bmw.getMarca() +
