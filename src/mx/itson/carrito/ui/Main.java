@@ -8,7 +8,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import mx.itson.carrito.entidades.Carro;
 import mx.itson.carrito.enums.TipoMotor;
-import mx.itson.carrito.enums.TipoCarros;
+import mx.itson.carrito.enums.TipoCarroceria;
 
 /**
  *
@@ -30,7 +30,7 @@ public class Main {
        bmw.setAnio(2021);
        bmw.setKilometraje(10000);
        bmw.setTipoMotor(TipoMotor.HIBRIDO);
-       bmw.setTipoCarros(TipoCarros.SUV);
+       bmw.setTipoCarros(TipoCarroceria.SUV);
 
        
         // invicamos al metodo contenido en la clase carro

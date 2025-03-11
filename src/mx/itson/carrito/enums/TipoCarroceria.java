@@ -8,7 +8,7 @@ package mx.itson.carrito.enums;
  *
  * @author alumnog
  */
-public enum TipoCarros {
+public enum TipoCarroceria {
     SEDAN,
     HATCHBACK,
     SUV,
