@@ -4,7 +4,6 @@
  */
 package mx.itson.carrito.ui;
 
-import java.util.HashSet;
 import java.util.Scanner;
 import mx.itson.carrito.entidades.Aseguradora;
 import mx.itson.carrito.entidades.Carro;
